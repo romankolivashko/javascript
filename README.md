@@ -1,1 +1,1 @@
-# javascript - freecodecamp repo
+# javascript - fundamentals repo
