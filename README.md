@@ -1,1 +1,1 @@
-# javascript - fundamentals repo
+# JavaScript - fundamentals repo
