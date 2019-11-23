@@ -1,1 +1,8 @@
+var magic = function() {
+  "use strict";
+  return new Date();
+};
+
+VS
+
 const magic = () => new Date();
